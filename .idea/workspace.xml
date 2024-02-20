@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0972e88d-e7b0-4da8-afec-c057a03468d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ITEC2150.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EcoTransport/Models/BaseVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EcoTransport/Models/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EcoTransport/Models/EcoTransportTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EcoTransport/Models/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EcoTransport/Models/ElectricScooter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EcoTransport/Models/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EcoTransport/Models/Bicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EcoTransport/Models/EcoTransportTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EcoTransport/Models/EcoTransportTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EcoTransport/Models/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EcoTransport/Models/ElectricCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EcoTransport/Models/ElectricScooter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EcoTransport/Models/ElectricScooter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +30,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": -1
+}]]></component>
   <component name="ProjectId" id="2catp6XKL4ocmRv4emTZx8jX4uL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,7 +43,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -55,7 +61,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708361698700</updated>
+      <workItem from="1708394179305" duration="377000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

@@ -29,7 +29,8 @@ public class ElectricScooter extends BaseVehicle{
 
     @Override
     public String toString(){
-        return super.toString() + "\n Max Speed: " + getMaxSpeed() + "km/h" +
-                "\nWeight Capacity: " + getWeightCapacity() + "kg";
+        return super.toString() + "\nMax Speed: " + getMaxSpeed() + "km/h" +
+                "\nWeight Capacity: " + getWeightCapacity() + "kg" +
+                "\n\n";
     }
 }

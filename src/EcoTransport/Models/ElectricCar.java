@@ -30,6 +30,7 @@ public class ElectricCar extends BaseVehicle{
     @Override
     public String toString(){
         return super.toString() + "\nBattery Capacity: " + getBatteryCapacity() + "kWh" +
-                "\nRange: " + getRange() + "km";
+                "\nRange: " + getRange() + "km" +
+                "\n\n";
     }
 }

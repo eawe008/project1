@@ -31,6 +31,7 @@ public class Bicycle extends BaseVehicle{
     public String toString(){
         return super.toString() + "\nHas Gears?: " + isHasGears() +
 
-                "\nNumber of Gears: " + getGearCount();
+                "\nNumber of Gears: " + getGearCount() +
+                "\n\n";
     }
 }
